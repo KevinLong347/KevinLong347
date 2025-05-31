@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Long</h1>
-<h3 align="center">An average Swift coder</h3>
+<h3 align="center">An average Swift coder from Viet Nam</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
